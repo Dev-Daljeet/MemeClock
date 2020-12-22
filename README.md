@@ -15,7 +15,13 @@ Click the link in **About** section to use the app.
 
 ### How to use the app:
 
-This webpage doesn't require any active action from user. However, please enable JavaScript in your browser if it is disabled.
+This webpage doesn't require any active action from user to start the time clock. 
+
+However, user can select/tap any one of the three button to change the text and image.
+The three buttons are:
+1. Party time: Image - Pepe Colorful motion (.gif) and text - Party Time!
+2. Coding time: Image - Pepe image in green matrix (.gif) and text - Coding Time!
+3. Gaming time: Image - Dancing Pepe with headphones (.gif) and text - Gaming Time!
 
 ### How to run/download:
 
