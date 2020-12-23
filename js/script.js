@@ -57,7 +57,7 @@ var updateClock = function()
   }
   else
   {
-    image = "images/night.png";
+    image = "images/night.jpg";
     messageText = "Good Night!";
   }
 
